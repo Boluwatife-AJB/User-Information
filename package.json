@@ -1,0 +1,18 @@
+{
+  "name": "node-form-collector",
+  "version": "1.0.0",
+  "description": "A NodeJs application that collects user's data",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "start:prod": "NODE_ENV=production nodemon server.js"
+  },
+  "author": "Boluwatife Ajose",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4",
+    "morgan": "^1.10.0"
+  }
+}

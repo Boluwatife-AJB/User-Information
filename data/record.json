@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@gmail.com",
+    "phoneNumber": 1234566778,
+    "address": "Silicon Valley, CA",
+    "userName": "johnny_doe",
+    "dateOfBirth": "2020-10-20"
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "janedoe@gmail.com",
+    "phoneNumber": 1234566778,
+    "address": "Silicon Valley, CA",
+    "userName": "johnny_doe",
+    "dateOfBirth": "2020-10-20"
+  },
+  {
+    "id": 3,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@gmail.com",
+    "phoneNumber": 1234566778,
+    "address": "Silicon Valley, CA",
+    "userName": "janny_doe",
+    "dateOfBirth": "2021-10-20"
+  },
+  {
+    "id": 4,
+    "firstName": "Livingstone",
+    "lastName": "Park",
+    "email": "lpark@gmail.com",
+    "phoneNumber": 1234566778,
+    "address": "Silicon Valley, CA",
+    "userName": "living_stone",
+    "dateOfBirth": "2020-10-20"
+  },
+  {
+    "id": 5,
+    "firstName": "Mary",
+    "lastName": "Ann",
+    "email": "maryann@gmail.com",
+    "phoneNumber": 1234566778,
+    "address": "Silicon Valley, CA",
+    "userName": "mary_anne",
+    "dateOfBirth": "2020-10-20"
+  },
+  { "id": 6, "firstName": "Bolu", "lastName": "Ajose" }
+]
