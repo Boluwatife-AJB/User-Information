@@ -4,7 +4,8 @@
   "description": "A NodeJs application that collects user's data",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon server.js",
+    "start": "nodemon server.js",
+    "start:dev": "NODE_ENV=development nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js"
   },
   "author": "Boluwatife Ajose",
